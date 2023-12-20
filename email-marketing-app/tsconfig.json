@@ -28,7 +28,11 @@
     "**/*.tsx",
     "components/AboutFeatures/index.jsx",
     "components/Hero/index.jsx",
-    "components/About/Contact/index.jsx"
+    "components/About/Contact/index.jsx",
+    "components/About/AboutSectionTwo.jsx",
+    "components/About/AboutSectionThree.jsx",
+    "components/About/AboutSectionOne.jsx",
+    "components/About/AboutSectionFour.jsx"
   ],
   "exclude": ["node_modules"]
 }
