@@ -77,6 +77,7 @@ const Hero = () => {
             height="150"
             className="w-full object-cover"
           />
+          
         </div>
       </div>
     </section>

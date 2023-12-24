@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import Image from "next/image";
 
-const AboutSectionFour = () => {
+const AboutProduct = () => {
   return (
     <section className="py-16 md:py-20 lg:py-28">
       <div className="relative w-[1140px] h-[718px] flex">
@@ -59,4 +59,4 @@ const AboutSectionFour = () => {
   );
 };
 
-export default AboutSectionFour;
+export default AboutProduct;

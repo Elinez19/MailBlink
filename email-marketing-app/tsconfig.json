@@ -29,10 +29,10 @@
     "components/AboutFeatures/index.jsx",
     "components/Hero/index.jsx",
     "components/About/Contact/index.jsx",
-    "components/About/AboutSectionTwo.jsx",
-    "components/About/AboutSectionThree.jsx",
-    "components/About/AboutSectionOne.jsx",
-    "components/About/AboutSectionFour.jsx"
-  ],
+    "app/about/AboutSectionTwo.jsx",
+    "app/about/AboutSectionThree.jsx",
+    "app/about/AboutSectionOne.jsx",
+    "app/about/AboutSectionFour.jsx"
+, "app/about/AboutTeam.jsx"  ],
   "exclude": ["node_modules"]
 }
